@@ -10,4 +10,3 @@ def je_prastevilo(n):
 for i in range(2, 201):
     if je_prastevilo(a):
         print a
-
